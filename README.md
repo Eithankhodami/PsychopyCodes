@@ -9,4 +9,4 @@ This is a progress bar designed to indicate the duration of your experiment, whi
 - The primary settings of this progress bar are configured based on the screen's degree measurement. If your experiment uses different units of measurement, you may need to adapt the values for the `height`, `position`, and `size` parameters accordingly.
 
 ## [Screen Size Detecor](https://github.com/Eithankhodami/PsychopyCodes/blob/main/Screen%20Size%20detector.py)
-This code is designed to detect your screen size, and later, you can use parameters including `height` and `width` if you want to insert stimuli or divide the screen based on your need.
+This code is designed to detect your screen size, and later, you can use parameters including `height` and `width` if you want to insert stimuli or divide the screen based on your needs.
