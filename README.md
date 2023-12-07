@@ -12,6 +12,6 @@ This is a progress bar designed to indicate the duration of your experiment, whi
 This code is designed to detect your screen size, and later, you can use parameters including `height` and `width` if you want to insert stimuli or divide the screen based on your needs.
 
 ## [Adapted code for EyeLink Eye tracker and Psychopy](https://github.com/Eithankhodami/PsychopyCodes/tree/main/Native%20EyeLink%20Psychopy%20adaption%20for%20coder)
-⛔Tested with Psychopy Version 2023.x.x not earlier
-This code Provides clean [Eye-Link Eye-tracker](https://sr-research.com/support) for [Psychopy Coder](https://psychopy.org/coder/index.html) to integrate including calibration, validation and recording experiments and provide *.EDF file at the end.
+⛔Tested with Psychopy Version 2023.x.x not earlier <br><br>
+This code Provides clean [Eye-Link Eye-tracker](https://sr-research.com/support) for [Psychopy Coder](https://psychopy.org/coder/index.html) to integrate including calibration, validation and recording experiments and provide *.EDF file at the end. <br><br>
 ©️ Copyright of main code remains for [SR-Research](https://sr-research.com/)
